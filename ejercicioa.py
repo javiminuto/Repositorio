@@ -7,4 +7,4 @@ for i in range(row):
     for j in range(cols):
         r.append(i*cols+j)
     m.append(r)
-    print(m)
+print(m)
